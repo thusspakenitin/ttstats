@@ -1,3 +1,7 @@
 [submodule "ttstats/static/js/closure-library"]
 	path = ttstats/static/js/closure-library
+<<<<<<< HEAD
 	url = https://github.com/google/closure-library.git
+=======
+	url = https://github.com/thusspakenitin/closure-library.git
+>>>>>>> upstream/master
