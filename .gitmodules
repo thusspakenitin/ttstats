@@ -1,0 +1,3 @@
+[submodule "ttstats/static/js/closure-library"]
+	path = ttstats/static/js/closure-library
+	url = https://github.com/google/closure-library.git
